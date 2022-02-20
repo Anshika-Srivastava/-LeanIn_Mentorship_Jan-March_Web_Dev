@@ -9,3 +9,12 @@ As a part of our first milestone, we created an add user game that taught us the
 ![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/Milestone1/Snapshots/React3.png)
 
 ![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/Milestone1/Snapshots/React4.png)
+
+## Milestone 2 :
+![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/Milestone%202/Snapshots/1.png)
+
+![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/Milestone%202/Snapshots/2.png)
+
+![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/Milestone%202/Snapshots/3.png)
+
+![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/Milestone%202/Snapshots/4.png)
