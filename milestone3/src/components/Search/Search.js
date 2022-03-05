@@ -6,6 +6,7 @@ const Search = ({ handleSearch, ApiResponse, updateCity }) => {
   const [city, setCity] = useState("");
   const handleSubmit = (e) => {
     e.preventDefault();
+    if (city.trim().length === 0) alert("Please enter a valid city");
     handleSearch(city);
   };
   return (
