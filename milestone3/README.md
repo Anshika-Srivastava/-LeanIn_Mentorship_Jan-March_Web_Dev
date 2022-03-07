@@ -15,6 +15,6 @@ I also learnt about many new things such as:</br>
 * The list of cities starting with or having word 'New'
 ![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/milestone3/Snapshots/2022-03-04%20(1).png)
 
-* On-clicking we can get the basic temperature details for the plce
+* On-clicking we can get the basic temperature details for the place
 ![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/milestone3/Snapshots/2022-03-04%20(2).png)
 ![picture alt](https://github.com/Anshika-Srivastava/LeanIn_Mentorship_Jan-March_Web_Dev/blob/main/milestone3/Snapshots/2022-03-04%20(3).png)
