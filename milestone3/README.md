@@ -1,5 +1,5 @@
 ## Milestone 3 :
-As a part of our first milestone, we had to create a web app with the help of http requests. Here I have used axios for the same. </br>
+As a part of our third milestone, we had to create a web app with the help of http requests. Here I have used axios for the same. </br>
 Axios is a promise based HTTP client for the browser and Node.js. Axios makes it easy to send asynchronous HTTP requests to REST endpoints and perform CRUD operations. It can be used in plain JavaScript or with a library such as Vue or React. </br>
 API I used: https://www.metaweather.com/api/ </br>
 I also learnt about many new things such as:</br>
